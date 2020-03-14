@@ -12,6 +12,6 @@ print(pos)
 
 x = -100
 y = 100
-z = 100
+z = 1001
 
 mc.player.setTilePos(x,y,z)
